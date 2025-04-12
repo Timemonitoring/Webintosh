@@ -1,4 +1,4 @@
-TODO List - 代办事项
+TODO List
 ---
 - [ ] 打开 App
 - [x] 基本外观
